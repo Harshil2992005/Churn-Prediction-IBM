@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+churn/
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts (optional - uncomment if too large)
+# *.pkl
+
+# Generated images / diagrams
+project_flow_diagram.png
+completeflow.png
+
+# Dataset (if it's too large for GitHub)
+# dataset.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
