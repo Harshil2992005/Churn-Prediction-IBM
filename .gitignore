@@ -19,7 +19,6 @@ venv/
 
 # Generated images / diagrams
 project_flow_diagram.png
-completeflow.png
 
 # Dataset (if it's too large for GitHub)
 # dataset.csv
